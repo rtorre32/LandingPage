@@ -89,6 +89,57 @@
     height: 250px;
     margin: 0;
     background-color: white;
+    flex-direction: row;
+    align-items: center;
+}
+.second h3{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.second .holder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    gap: 25px;
+}
+.second .one{
+    border: 3px solid #3882f6;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+}
+.second .two{
+    border: 3px solid #3882f6;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+}
+.second .three{
+    border: 3px solid #3882f6;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+}
+.second .four{
+    border: 3px solid #3882f6;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+}
+.second .text-holder{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 5px;
+    
+}
+.second .text-div{
+    text-align: center;
+    font-size: 10px;
+    width: 85px;
+    height: 40px;
 }
 
 .third{
