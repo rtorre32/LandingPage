@@ -148,6 +148,19 @@
     margin: 0;
     background-color: #E5E7EB;
 }
+.third .quote-block{
+    color: #1f2937;
+    width: 550px;
+    height: 100px;
+    font-size: 26px;
+    display: block;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.third h4{
+    margin-left: 580px;
+    margin-top: 20px;
+}
 
 .fourth{
     width: 100%;
